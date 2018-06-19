@@ -1,0 +1,4 @@
+---
+# vars file for search_head3
+sh_one: 172.31.30.19
+sh_two: 172.31.30.157
