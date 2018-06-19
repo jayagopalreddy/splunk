@@ -1,0 +1,9 @@
+---
+# vars file for ec2_spin
+pem: ranjith-minjar-cloudspotter
+sg_name: Ranjith-test-sg
+instance_type: t2.micro
+ami_id: ami-76d6f519
+volume_size: 15
+region: ap-south-1
+subnet: subnet-d9f214b0
